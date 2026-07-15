@@ -1,4 +1,4 @@
-# AGENTS.md — AI Research Wiki
+# CLAUDE.md — AI Research Wiki
 
 This wiki is managed by [Synthadoc](https://github.com/axoviq-ai/synthadoc).
 It covers: **AI Research**.
